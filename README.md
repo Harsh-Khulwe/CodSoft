@@ -1,4 +1,4 @@
-Here in this repository, I have uploaded solutions of the 5 tasks as provided by CodSoft.
+Here in this repository, I have uploaded solutions of the 5 tasks in C++ Programming as provided by CodSoft.
 
 Task 1: Number Guessing Game
 
